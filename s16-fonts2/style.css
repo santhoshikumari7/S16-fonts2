@@ -1,0 +1,69 @@
+@import url('https://fonts.googleapis.com/css2?family=Bungee+Tint&family=Fira+Sans:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Matemasie&family=Sevillana&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Fira+Sans:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap')
+
+@import url('https://fonts.googleapis.com/css2?family=Timmana&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Lakki+Reddy&family=Timmana&display=swap');
+
+@font-face {
+    font-family:ananda ;
+    src: url(./fonts/Ananda\ Namaste\ Regular.ttf);
+}
+@font-face {
+    font-family:chanakya ;
+    src: url(./fonts/Chanakya\ Regular/);
+}
+
+
+@font-face{
+    font-family:chanakya ;
+    src: url(./fonts/Chanakya\ Regular.ttf)
+}
+@font-face {
+    font-family:chathura ;
+    src: url(./fonts/Chathura\ Bold.ttf);
+
+}
+
+@font-face {
+    font-family:dhurjati ;
+    src: url(./fonts/Dhurjati\ Italic.otf);
+}
+
+#para1{
+    font-family: "Bungee Tint", sans-serif;
+}
+#para2{
+    font-family:  "Sevillana", cursive;;
+}
+
+#para3{
+   font-family: "Fira Sans", sans-serif;
+   font-weight: 100;
+}
+#para4{
+    font-family: "Timmana", sans-serif;
+    font-weight: 300;
+}
+#para5{
+    font-family: "Lakki Reddy", serif;
+  font-weight: 900;
+}
+#para6{
+    font-family: ananda;
+}  
+#patra7{
+    font-family: chanakya;
+    
+}
+#para8{
+    font-family: chathura;
+    font-size: 2rem;
+}
+#para9{
+    font-family: dhurjati;
+    
+}
